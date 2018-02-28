@@ -1,4 +1,4 @@
 void main (void){
-printf ("chido")
+printf ("no se que es")
 
 }
